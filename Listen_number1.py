@@ -58,3 +58,4 @@ while n!=0:
     else:
         s=trans(ch)+' '+dv_khac(i)+' '+s
 print(s)
+#update
