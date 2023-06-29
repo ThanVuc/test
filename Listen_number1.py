@@ -59,3 +59,5 @@ while n!=0:
         s=trans(ch)+' '+dv_khac(i)+' '+s
 print(s)
 #update
+
+#van su khoi dau nan
